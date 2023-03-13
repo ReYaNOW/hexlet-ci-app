@@ -8,6 +8,10 @@ Starting boilerplate of [Strapi](https://strapi.io/) application
 * NPM >= 6.x
 * Make
 
+
+[![action](https://github.com/ReYaNOW/hexlet-ci-app/actions/workflows/action.yaml/badge.svg)](https://github.com/ReYaNOW/hexlet-ci-app/actions/workflows/action.yaml)
+
+
 ## Using
 
 ```sh
